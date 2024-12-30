@@ -1,6 +1,6 @@
 services:
   app:
-    container_name: z-mirror
+    container_name: z-mirrore
     build:
       context: .
       dockerfile: Dockerfile
